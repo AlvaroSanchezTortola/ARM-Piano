@@ -4,7 +4,7 @@
 /* Authors: Olga Lucía Cobaquil			            	     */
 /*          Álvaro Sánchez Tórtola             	    		 */
 /* Date: 22/08/2014						         	         */	
-/* Curse: CC4010 Taller de Assembler				         */
+/* Course: CC4010 Taller de Assembler				         */
 /*************************************************************/
 
 .section .init
